@@ -1,4 +1,4 @@
-# Run Completed Code
+# dbank
 
 1. Make sure dfx is running
 
@@ -15,7 +15,3 @@ dfx deploy
 ```
 npm start
 ```
-
-
-
-# dbank
